@@ -1,0 +1,22 @@
+body {
+  text-align:center;
+  background-image:linear-gradient(#0FFFFF 100%, #FFFFFF 0%);
+    padding: 10px;
+    border: 100px;
+    border-style: 200px;
+}
+
+h1{
+font-weight:bolder;
+}
+img {
+  height:200px;
+  width:300px;
+  border-radius:50px;
+}
+#Hobby{
+    font-family: 'Otomanopee One', sans-serif;
+}
+#beginningpara{
+    text-decoration-color: limegreen;
+}
